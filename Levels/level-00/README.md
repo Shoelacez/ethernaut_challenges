@@ -8,6 +8,5 @@ AFTER FOLLOWING ALL THE INSTRUCTIONS:
 
 
 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+
 
