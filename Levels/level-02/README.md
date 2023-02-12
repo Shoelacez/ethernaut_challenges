@@ -19,8 +19,9 @@ thus it is not a constructior so just calling the `fal1out()` will make the depl
 
 
 **FINALLY**
-use an interface r=to interact with the `Fallout` contract.
-`. First call the `Fal1out()` then check the `owner`
+
+use an interface to interact with the `Fallout` contract.
+First call the `Fal1out()` then check the `owner`
 
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.0;
