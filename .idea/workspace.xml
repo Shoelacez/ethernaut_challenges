@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6df0581-ded8-4ab9-871b-3695c0e0a1f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/README..md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Levels/level-04/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Levels/level-05/img_6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-00\images" />
+      <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-01\images" />
+      <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-02\images" />
+      <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-03\images" />
+      <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-04\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
