@@ -26,10 +26,17 @@ The function cannot have arguments, cannot return anything and must have `extern
 **I WILL TRY PLAYING WITH THE `fallback()` FUNCTIONS:**
 
 Current status of the `King` Contract
-![img.png](img.png)
+![img_2.png](images/img_02.png)
+
 
 **OBJECTIVE**
 
 When you submit the instance back to the level, the level is going to reclaim kingship. You will beat the level if you can avoid such a self proclamation.
 
-![img_1.png](img_1.png)
+Deploying the Attacker contract:
+
+![img_3.png](images/img_3.png)
+
+THE KING HAS BEEN OVERTHROWN!
+
+![img_4.png](images/img_4.png)
