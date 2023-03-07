@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c6df0581-ded8-4ab9-871b-3695c0e0a1f5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Levels/level-06/delegation.sol" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="c6df0581-ded8-4ab9-871b-3695c0e0a1f5" name="Changes" comment="" />
+>>>>>>> 1dd6df586657b3396c5a6ef4a7d97efe48a5b01b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\ethernaut_challenges\Levels\level-07\images" />
       <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-06\images" />
       <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-05\images" />
       <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-00\images" />
       <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-01\images" />
-      <recent name="C:\Users\HP\Desktop\ethernaut_challenges\Levels\level-02\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
