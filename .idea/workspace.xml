@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="c6df0581-ded8-4ab9-871b-3695c0e0a1f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Levels/level-06/delegation.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
     <list default="true" id="c6df0581-ded8-4ab9-871b-3695c0e0a1f5" name="Changes" comment="" />
+>>>>>>> 1dd6df586657b3396c5a6ef4a7d97efe48a5b01b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

