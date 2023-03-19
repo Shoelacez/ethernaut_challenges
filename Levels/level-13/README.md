@@ -6,7 +6,7 @@
 
 ![img.png](images/img_1.png)
 
-**THIS ONE WAS TOUGh FOR ME SO I JUST HAD TO REFER TO SOME SOURCES**
+**THIS ONE WAS TOUGH FOR ME SO I JUST HAD TO REFER TO SOME SOURCES**
 
 [External Source: He explains it better](https://medium.com/coinmonks/ethernaut-privacy-problem-7106562caee2).
 
@@ -15,6 +15,3 @@ The first thing to know is that nothing is stopping us from snooping around a co
 Storage variables are indexed as they’re defined, in other words in this particular case the “locked” variable that is first defined in the contract will be available web3.eth.getStorageAt(/contract.address/, 0)
 
 
-I have been so busy with my final year thesis
-
-![](images/img_2.png)
