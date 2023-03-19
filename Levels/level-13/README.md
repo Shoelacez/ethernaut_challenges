@@ -15,3 +15,5 @@ The first thing to know is that nothing is stopping us from snooping around a co
 Storage variables are indexed as they’re defined, in other words in this particular case the “locked” variable that is first defined in the contract will be available web3.eth.getStorageAt(/contract.address/, 0)
 
 
+I have been so busy with my final year thesis
+
