@@ -17,3 +17,4 @@ Storage variables are indexed as they’re defined, in other words in this parti
 
 I have been so busy with my final year thesis
 
+![](images/img_2.png)
