@@ -8,7 +8,7 @@
 
 **THIS ONE WAS TOUGh FOR ME SO I JUST HAD TO REFER TO SOME SOURCES**
 
-[External Source: He expalains it better](https://medium.com/coinmonks/ethernaut-privacy-problem-7106562caee2).
+[External Source: He explains it better](https://medium.com/coinmonks/ethernaut-privacy-problem-7106562caee2).
 
 The first thing to know is that nothing is stopping us from snooping around a contracts storage variables (even private ones!) very easily, easing something like web3.eth.getStorageAt(/contract.address/ /var index/)
 
