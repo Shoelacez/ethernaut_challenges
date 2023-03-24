@@ -39,6 +39,4 @@ contract Hack{
         // 1st call
         return 100;
     }
-
-
 }
