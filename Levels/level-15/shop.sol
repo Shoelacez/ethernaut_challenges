@@ -32,11 +32,11 @@ contract Attack{
     }
 
     function price() external view returns (uint){
-         // 2nd call
+         // Second call
         if (victim.isSold()){
             return 99;
         }
-        // 1st call
+        // First call
         return 100;
     }
 }
